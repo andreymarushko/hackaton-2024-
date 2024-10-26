@@ -1,3 +1,0 @@
-hejtrikmophe
-print("получилось")
-fewjiuofew
