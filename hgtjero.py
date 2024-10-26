@@ -1,2 +1,2 @@
 hejtrikmophe
-print
+print("получилось")
