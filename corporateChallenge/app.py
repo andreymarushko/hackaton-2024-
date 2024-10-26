@@ -1,5 +1,5 @@
 from flask import Flask
-from config import Config
+from corporateChallenge.config import Config
 from models import db, User, Goal, Challenge, Team, Event
 
 app = Flask(__name__)
